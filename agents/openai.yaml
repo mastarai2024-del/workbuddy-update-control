@@ -1,0 +1,4 @@
+interface:
+  display_name: "WorkBuddy 更新控制"
+  short_description: "检查和关闭 macOS WorkBuddy 自动升级，清理更新包并可撤销地拦截下载"
+  default_prompt: "使用 $workbuddy-update-control 检查 WorkBuddy 自动更新状态，并按我的授权关闭升级和下载。"
